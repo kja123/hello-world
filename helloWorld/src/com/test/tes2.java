@@ -1,5 +1,7 @@
-import java.io.*
+package com.test;
 
-public String combine(String msg1, String msg2) {
-  return msg1 + msg2
+public class tes2 {
+	public String combine(String msg1, String msg2) {
+	  return msg1 + msg2;
+	}
 }
